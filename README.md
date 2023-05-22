@@ -23,8 +23,6 @@
 
 - :telescope: I’m a beginner developer.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on CodeWars and read IT artcles.
 
 
